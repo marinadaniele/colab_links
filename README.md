@@ -1,4 +1,4 @@
-# colab_links for economic modeling 
+# **Colab links for economic modeling**_
 
 # notes on sessions 5 and 6 
 intro to colab
