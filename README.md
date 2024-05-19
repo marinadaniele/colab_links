@@ -33,4 +33,4 @@ logistic regression
 
 # Final project 
 Marina Daniele, Camillo Orsini, Joseph Trad 
-  https://colab.research.google.com/drive/1C5QJ1Hepih9gVqVjdavScSbIPy40JXr3?usp=sharing
+  https://colab.research.google.com/drive/1cgQiP5m4Sd857dzKNmRvyoZrBr1-WuWY?usp=sharing
